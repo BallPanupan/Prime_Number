@@ -13,6 +13,7 @@
 		4F0EEC891F298F35009F78AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F0EEC881F298F35009F78AD /* Assets.xcassets */; };
 		4F0EEC8C1F298F35009F78AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F0EEC8A1F298F35009F78AD /* LaunchScreen.storyboard */; };
 		4F0EEC941F2991E2009F78AD /* BG_Prime.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4F0EEC931F2991E2009F78AD /* BG_Prime.jpg */; };
+		4F0EEC961F29A08D009F78AD /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 4F0EEC951F29A08D009F78AD /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4F0EEC8B1F298F35009F78AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4F0EEC8D1F298F35009F78AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4F0EEC931F2991E2009F78AD /* BG_Prime.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = BG_Prime.jpg; path = ../../../../Desktop/BG_Prime.jpg; sourceTree = "<group>"; };
+		4F0EEC951F29A08D009F78AD /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		4F0EEC751F298F35009F78AD = {
 			isa = PBXGroup;
 			children = (
+				4F0EEC951F29A08D009F78AD /* README.md */,
 				4F0EEC801F298F35009F78AD /* Prime */,
 				4F0EEC7F1F298F35009F78AD /* Products */,
 			);
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F0EEC961F29A08D009F78AD /* README.md in Sources */,
 				4F0EEC841F298F35009F78AD /* ViewController.swift in Sources */,
 				4F0EEC821F298F35009F78AD /* AppDelegate.swift in Sources */,
 			);
